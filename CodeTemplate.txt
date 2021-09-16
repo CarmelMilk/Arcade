@@ -3,13 +3,13 @@ CODE TEMPLATE:
 //Different syntax is used for comments depending on the language.
 
 //CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Rach Allen
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (I like you) {
+    I hug you
 } else {
-    //Add event below
+    I punch you
 }
 
 if (CHANGE ME: condition # 2) {
