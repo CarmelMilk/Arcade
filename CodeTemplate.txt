@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
+//Spiritfarer
 //Rach Allen
 
 
-if (I like you) {
+if (Your hug timer has reset) {
     I hug you
 } else {
-    I punch you
+    You are mean to me
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (The crop has fully grown and I try to harvest it) {
+    Remove crop from farm and get produce
 } else {
-    //Add event below
+    Nothing
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (You are hungry) {
+    You ask for food
 } else {
-    //Add event below
+    You refuse food
 }
 
 
